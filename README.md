@@ -1,6 +1,9 @@
 # Project: Machine learning for glacier mass balance modelling
 
 **Authors:** <br />
+Kuba Oniszk
+
+**Authors:** <br />
 Jordi Bolibar <br />
 Facundo Sapienza
 
